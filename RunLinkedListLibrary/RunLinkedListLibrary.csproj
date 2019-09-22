@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LinkedListLibrary">
+      <HintPath>..\LinkedListLibrary\bin\Debug\netstandard2.0\LinkedListLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

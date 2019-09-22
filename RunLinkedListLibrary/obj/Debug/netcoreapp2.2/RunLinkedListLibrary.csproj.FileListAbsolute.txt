@@ -1,0 +1,13 @@
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/RunLinkedListLibrary.deps.json
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/RunLinkedListLibrary.runtimeconfig.json
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/RunLinkedListLibrary.runtimeconfig.dev.json
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/RunLinkedListLibrary.dll
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/RunLinkedListLibrary.pdb
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/LinkedListLibrary.dll
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/bin/Debug/netcoreapp2.2/LinkedListLibrary.pdb
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/obj/Debug/netcoreapp2.2/RunLinkedListLibrary.csprojAssemblyReference.cache
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/obj/Debug/netcoreapp2.2/RunLinkedListLibrary.AssemblyInfoInputs.cache
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/obj/Debug/netcoreapp2.2/RunLinkedListLibrary.AssemblyInfo.cs
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/obj/Debug/netcoreapp2.2/RunLinkedListLibrary.csproj.CopyComplete
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/obj/Debug/netcoreapp2.2/RunLinkedListLibrary.dll
+/Users/gidraf/projects/LinkedListLibrary/RunLinkedListLibrary/obj/Debug/netcoreapp2.2/RunLinkedListLibrary.pdb

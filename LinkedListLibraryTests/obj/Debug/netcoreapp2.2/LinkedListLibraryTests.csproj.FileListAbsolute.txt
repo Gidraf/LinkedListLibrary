@@ -1,0 +1,17 @@
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibraryTests.deps.json
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibraryTests.runtimeconfig.json
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibraryTests.runtimeconfig.dev.json
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibraryTests.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibraryTests.pdb
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibrary.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/bin/Debug/netcoreapp2.2/LinkedListLibrary.pdb
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.csprojAssemblyReference.cache
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.csproj.CoreCompileInputs.cache
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.AssemblyInfoInputs.cache
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.AssemblyInfo.cs
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.csproj.CopyComplete
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibraryTests/obj/Debug/netcoreapp2.2/LinkedListLibraryTests.pdb

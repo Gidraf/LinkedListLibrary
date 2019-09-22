@@ -1,0 +1,5 @@
+Time complexity and space complexity
+
+0(n)
+
+This means the algorithm performance and the memory consumption will grow in direct proportion to the size of the input given to the solution.

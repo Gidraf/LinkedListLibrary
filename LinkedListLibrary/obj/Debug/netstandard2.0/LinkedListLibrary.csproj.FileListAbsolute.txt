@@ -1,0 +1,9 @@
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/bin/Debug/netstandard2.0/LinkedListLibrary.deps.json
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/bin/Debug/netstandard2.0/LinkedListLibrary.pdb
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.csprojAssemblyReference.cache
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.AssemblyInfoInputs.cache
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.AssemblyInfo.cs
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.dll
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.pdb
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.csproj.CoreCompileInputs.cache
+/Users/gidraf/projects/LinkedListLibrary/LinkedListLibrary/obj/Debug/netstandard2.0/LinkedListLibrary.csproj.CopyComplete
